@@ -1,0 +1,22 @@
+{
+  "name": "とけいのれんしゅう",
+  "short_name": "とけい",
+  "description": "こどものためのとけいがくしゅうアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E0F7FA",
+  "theme_color": "#00897B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
